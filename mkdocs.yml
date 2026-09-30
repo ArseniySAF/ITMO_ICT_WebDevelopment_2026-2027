@@ -1,0 +1,15 @@
+site_name: "ЛР1 — Арсений Сафьянчиков, К3341"
+docs_dir: students/k3341/Arseniy_Safianchickov/Lr1
+site_dir: site
+theme:
+  name: material
+  language: ru
+nav:
+  - Отчёт ЛР1: README.md
+exclude_docs: |
+  /task_1/
+  /task_2/
+  /task_3/
+  /task_4/
+  /task_5/
+  /smoke_test.py
